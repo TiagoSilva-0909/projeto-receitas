@@ -36,7 +36,7 @@ Caso queira dar uma olhada no nosso protótipo clique copie esse link=https://ww
 Atualizações:
 
 Criamos 2 abas de receitas de café e de Sobremesas,mas funcionaram do mesmo jeito das demais API's ,ao clicar nos cards apareceram as informações de como fazer a receita escolhida.
-AS demais atualizações  apareceram aqui no README.md
+Criamos tambem um gráfico das receitas mais populares ,para as pessoas verem qual a melhor recita entre as outras. 
 
 
 
