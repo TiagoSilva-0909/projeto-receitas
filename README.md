@@ -32,3 +32,11 @@ O css usaremos para estizar o site deixar com as cores certas e agradáveis.
 O bootstrap usaremos para criarmos o carrocel.
 
 Caso queira dar uma olhada no nosso protótipo clique copie esse link=https://www.figma.com/design/fo32lnIfzXdLVJN8S7EWab/Sem-t%C3%ADtulo?node-id=0-1&m=dev&t=JPPCW4Kdbsb3RIIY-1
+
+Atualizações:
+
+Criamos 2 abas de receitas de café e de Sobremesas,mas funcionaram do mesmo jeito das demais API's ,ao clicar nos cards apareceram as informações de como fazer a receita escolhida.
+AS demais atualizações  apareceram aqui no README.md
+
+
+
